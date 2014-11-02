@@ -5,3 +5,4 @@ Science Fair Project on Light for seventh grade. :)
 
 
 Effect of Distance on Light Intensity
+Science is awesome
